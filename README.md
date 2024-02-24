@@ -77,4 +77,3 @@ A continuacion se mostraran fotos del dispositivo IoT
 <img src="https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/b83b408b-25e2-464a-8a42-da5d07fa7e1e" width="600"/>
 
 <img src="https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/f6cd123f-1fd0-4de8-826a-7892e18f6ff7" width="600"/>
-
