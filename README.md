@@ -2,7 +2,7 @@ Imagenes del dispositivo movil "Cuidador":
 
 Login:
 
-<img src="https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/289d7498-cbc0-4d0e-bcde-6b869c525bbc" alt="Texto alternativo" title="Login" width="600" height="300"/>
+<img src="https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/289d7498-cbc0-4d0e-bcde-6b869c525bbc" alt="Texto alternativo" title="Login" width="600" height="800"/>
 
 Información del usuario:
 
