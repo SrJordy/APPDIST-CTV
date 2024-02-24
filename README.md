@@ -1,10 +1,10 @@
 Imagenes del dispositivo movil "Cuidador":
 Login:
-![Inicio de sesion](https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/289d7498-cbc0-4d0e-bcde-6b869c525bbc)
+[Inicio de sesion](https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/289d7498-cbc0-4d0e-bcde-6b869c525bbc)
 Informacion de usuario:
-![Informacion usuario](https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/a5b354d6-9945-4bba-b182-8d252203b41b)
+[Informacion usuario](https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/a5b354d6-9945-4bba-b182-8d252203b41b)
 Menu del Cuidador
-![Menu cuidador](https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/d5b64477-3341-46db-8e57-9e389b7adef1)
+[Menu cuidador](https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/d5b64477-3341-46db-8e57-9e389b7adef1)
 Lista de pacientes
 ![Lista de pacientes](https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/e43cbf28-ff53-4335-9352-a9415a9df31c)
 Ritmo Cardiaco
