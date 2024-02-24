@@ -27,3 +27,10 @@ Temperatura:
 Medicamentos: 
 
 <img src="https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/ba02b5ac-fe53-4f18-ac17-32ad0a549b18" alt="Texto alternativo" title="Medicamentos" width="600"/>
+
+Imagenes del dispositivo movil "Paciente":
+
+Menú del paciente: 
+
+<img src="https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/59b3ba67-0da9-4913-bfa3-f71a596b3997" alt="Texto alternativo" title="Menu de cuidador" width="600"/>
+
