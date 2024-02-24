@@ -5,8 +5,6 @@ Login:
 <img src="https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/289d7498-cbc0-4d0e-bcde-6b869c525bbc" alt="Texto alternativo" title="Login" width="600"/>
 
 
-![Inicio de sesion](https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/289d7498-cbc0-4d0e-bcde-6b869c525bbc)
-
 Informacion de usuario:![Informacion usuario](https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/a5b354d6-9945-4bba-b182-8d252203b41b)
 
 Menu del Cuidador: ![Menu cuidador](https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/d5b64477-3341-46db-8e57-9e389b7adef1)
