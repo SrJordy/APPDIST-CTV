@@ -67,3 +67,14 @@ A continuación, se presentan capturas de pantalla de la aplicación HealthTrack
 
 <img src="https://github.com/vales-alfre/HealthTracker-web/assets/97996152/996c78c9-bc2e-4102-a870-b1118bc1cd09" alt="Menú del Paciente" title="Menú del Paciente" width="600"/>
 
+# HealthTracker - Dispositivo IoT
+
+
+A continuacion se mostraran fotos del dispositivo IoT
+
+<img src="https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/0e0b10cd-7de5-4d8c-bc8b-af203aeda2d2" width="600"/>
+
+<img src="https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/b83b408b-25e2-464a-8a42-da5d07fa7e1e" width="600"/>
+
+<img src="https://github.com/SrJordy/Proyecto-Distribuidas/assets/120031341/f6cd123f-1fd0-4de8-826a-7892e18f6ff7" width="600"/>
+
