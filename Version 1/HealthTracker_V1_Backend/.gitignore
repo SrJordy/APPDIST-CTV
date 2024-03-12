@@ -1,0 +1,5 @@
+bin/*
+config.env
+config.prod.env
+uploads/
+.idea
